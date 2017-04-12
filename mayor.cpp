@@ -1,6 +1,7 @@
 /*
 informar mayor de dos numeros
  Ierino, Pablo
+ Cortina, Mariano
  k1051
 */
 
